@@ -1,0 +1,8 @@
+{
+  "name": "Always-to-RGB",
+  "displayName": "Always-to-RGB",
+  "description": "Always-to-RGB Extension",
+  "version": "0.1",
+  "author": { "name": "David Capello", "email": "david@igara.com", "url": "https://davidcapello.com/" },
+  "contributes": { "scripts": "Always-to-RGB.lua" }
+}
